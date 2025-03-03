@@ -25,8 +25,8 @@ We actively work on various projects related to *web development, mobile applica
 
 ### 🔥 Featured Projects:
 - 🚀 **Web HIMSI Universitas Airlangga** - Official website built using Next.js and TailwindCSS.
-- 🤖 **AI Chatbot for Student Assistance** - A chatbot designed to help students with academic and organizational inquiries.
-
+- 🤖 **Web ISAC** - Website used for Information System Airlangga Competition.
+  
 For more, check out our **[GitHub repositories](https://github.com/HIMSI-Universitas-Airlangga)**!
 
 ---
@@ -36,7 +36,7 @@ We welcome contributions from students and tech enthusiasts! You can get involve
 
 ✅ **Forking and contributing** to our repositories.
 ✅ **Joining our discussions and collaborations.**
-✅ **Participating in our events and hackathons!**
+✅ **Participating in our events!**
 
 🔗 **Stay Connected:**
 - 🌐 Website: [himsiunair.com](https://himsiunair.com/about-us)
