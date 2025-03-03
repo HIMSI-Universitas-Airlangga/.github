@@ -40,7 +40,7 @@ We welcome contributions from students and tech enthusiasts! You can get involve
 
 🔗 **Stay Connected:**
 - 🌐 Website: [himsiunair.com](https://himsiunair.com/about-us)
-- 📩 Email: [himsi@unair.ac.id](mailto:himsi@unair.ac.id)
+- 📩 Email: [himsi@unair.ac.id](mailto:unair.himsi@gmail.com)
 
 ---
 
