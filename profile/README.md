@@ -25,7 +25,7 @@ We actively work on various projects related to *web development, mobile applica
 
 ### 🔥 Featured Projects:
 - 🚀 **Web HIMSI Universitas Airlangga** - Official website built using Next.js and TailwindCSS.
-- 🤖 **Web ISAC** - Website used for Information System Airlangga Competition.
+- 🏆 **Web ISAC** - Website used for Information System Airlangga Competition.
   
 For more, check out our **[GitHub repositories](https://github.com/HIMSI-Universitas-Airlangga)**!
 
